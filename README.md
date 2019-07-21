@@ -4,6 +4,8 @@ Version 0.45!
 
 Many changes were done, so a new version was needed. Diodes for voltage protection were added! 
 
+If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
+
 ![Front](https://i.imgur.com/aa0LKcC.png)
 
 ![Back](https://i.imgur.com/rH13dfB.png)
