@@ -6,9 +6,9 @@ Many changes were done, so a new version was needed. Diodes for voltage protecti
 
 If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
 
-![Front](https://i.imgur.com/aa0LKcC.png)
+![Front](https://i.imgur.com/lMftVo0.png)
 
-![Back](https://i.imgur.com/rH13dfB.png)
+![Back](https://i.imgur.com/cnI88z9.png)
 
 This is a smaller version of my Volt Mod board. It has two spots instead of the four. 
 
