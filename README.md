@@ -2,9 +2,9 @@
 
 Version 0.5.
 
-More changes so a new version was needed. different switches were used as they're in stock in lcsc.
+More changes so a new version was needed; different switches were used as they're in stock in lcsc.
 
-If you have any questions, tweet/dm me on twitter! @Cephalon_Shade
+If you have any questions, tweet/dm me on twitteror message me on discord.  @Cephalon_Shade or pkkshadow#6247 (discord).
 
 ![Front](https://i.imgur.com/j8V7gRZ.png)
 
