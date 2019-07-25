@@ -8,7 +8,7 @@ If you have any questions, tweet/dm me on twitteror message me on discord.  @Cep
 
 ![Front](https://i.imgur.com/j8V7gRZ.png)
 
-![Back](https://i.imgur.com/WV7OQy3.png)
+![Back](https://i.imgur.com/NByZ2nj.png)
 
 This is a smaller version of my Volt Mod board. It has two spots instead of the four. 
 
