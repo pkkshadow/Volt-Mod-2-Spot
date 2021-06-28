@@ -8,6 +8,6 @@ If you have any questions, tweet/dm me on twitteror message me on discord.  @Cep
 
 ![Front](https://imgur.com/a/pDPVWw5)
 
-![Back](https://i.imgur.com/WMnpSQv.png
+![Back](https://i.imgur.com/WMnpSQv.png)
 
 When you go to jlcpcb or any other pcb manufacturer, just upload the zip file without unziping it. 
