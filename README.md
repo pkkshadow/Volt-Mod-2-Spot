@@ -1,17 +1,13 @@
 # Volt-Mod-2-Spot
 
-Version 1.0!
+Version 2.0!
 
-This is the version that will go into production.
+After a very long hiatus, I'm updating this.
 
-If you have any questions, tweet/dm me on twitteror message me on discord.  @Cephalon_Shade or pkkshadow#6247 (discord). Or join the discord server: https://discord.gg/SCnkNt7
+If you have any questions, tweet/dm me on twitteror message me on discord.  @Cephalon_Shade or pkkshadow#6247 (discord). 
 
-![Front](https://i.imgur.com/Lt5Mid3.png)
+![Front](https://imgur.com/a/pDPVWw5)
 
-![Back](https://i.imgur.com/25KXmD4.png)
-
-This is a smaller version of my Volt Mod board. It has two spots instead of the four. 
-
-https://github.com/pkkshadow/Volt-Mod
+![Back](https://i.imgur.com/WMnpSQv.png
 
 When you go to jlcpcb or any other pcb manufacturer, just upload the zip file without unziping it. 
