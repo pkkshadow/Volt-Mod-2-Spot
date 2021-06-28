@@ -4,9 +4,9 @@ Version 2.0!
 
 After a very long hiatus, I'm updating this.
 
-If you have any questions, tweet/dm me on twitteror message me on discord.  @Cephalon_Shade or pkkshadow#6247 (discord). 
+If you have any questions, tweet/dm me on twitter or message me on discord.  @Cephalon_Shade or pkkshadow#5844(discord). 
 
-![Front](https://imgur.com/a/pDPVWw5)
+![Front](https://i.imgur.com/U4FZh7F.png)
 
 ![Back](https://i.imgur.com/WMnpSQv.png)
 
